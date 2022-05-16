@@ -1,0 +1,13 @@
+FathersFather,FathersMother,MothersFather,MothersMother,Father,Mother,Result
+0,0,0,0,1,0,Carrier – Daughter
+0,0,0,0,0,1,Carrier – Daughter
+0,0,0,0,1,1,Son & Daughter
+1,0,0,0,0,0,None
+1,1,0,0,1,0,Carrier – Daughter
+0,0,1,1,1,0,Son (Carrier – Daughter)
+1,0,0,0,0,1,Son 50% (Daughter 50% - Carrier)
+1,0,1,0,0,0,Son 50% (Daughter 50% - Carrier)
+0,1,0,1,1,0,Son 50% & Daughter 50% (Daughter 50% - Carrier)
+0,1,0,1,1,1,Son 50% & Daughter 50% (Daughter 50% - Carrier)
+1,0,1,1,0,1,Son 50% & Daughter 50% (Daughter 50% - Carrier)
+1,1,1,1,1,1,Son & Daughter
