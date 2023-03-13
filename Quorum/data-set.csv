@@ -1,0 +1,214 @@
+command,code
+initiate integer x,integer x
+initiate integer x,integer y
+initiate integer x with value one,integer x = 1
+initiate integer x with value two,integer x = 2
+initiate integer x with value three,integer x = 3
+initiate integer x with value four,integer x = 4
+initiate integer x with value five,integer x = 5
+initiate integer x with value six,integer x = 6
+initiate integer x with value seven,integer x = 7
+initiate integer x with value eight,integer x = 8
+initiate integer x with value nine,integer x = 9
+initiate integer x with value ten,integer x = 10
+initiate integer x with value eleven,integer x = 11
+initiate integer x with value twelve,integer x = 12
+initiate integer x with value thirteen,integer x = 13
+initiate integer x with value fourteen,integer x = 14
+initiate integer x with value fifteen,integer x = 15
+initiate integer x with value sixteen,integer x = 16
+initiate integer x with value seventeen,integer x = 17
+initiate integer x with value eighteen,integer x = 18
+initiate integer x with value nineteen,integer x = 19
+initiate integer x with value twenty,integer x = 20
+initiate integer y with value one,integer y = 1
+initiate integer y with value two,integer y = 2
+initiate integer y with value three,integer y = 3
+initiate integer y with value four,integer y = 4
+initiate integer y with value five,integer y = 5
+initiate integer y with value six,integer y = 6
+initiate integer y with value seven,integer y = 7
+initiate integer y with value eight,integer y = 8
+initiate integer y with value nine,integer y = 9
+initiate integer y with value ten,integer y = 10
+initiate integer y with value eleven,integer y = 11
+initiate integer y with value twelve,integer y = 12
+initiate integer y with value thirteen,integer y = 13
+initiate integer y with value fourteen,integer y = 14
+initiate integer y with value fifteen,integer y = 15
+initiate integer y with value sixteen,integer y = 16
+initiate integer y with value seventeen,integer y = 17
+initiate integer y with value eighteen,integer y = 18
+initiate integer y with value nineteen,integer y = 19
+initiate integer y with value twenty,integer y = 20
+if x equals to one,if x = 1
+if x equals to two,if x = 2
+if x equals to three,if x = 3
+if x equals to four,if x = 4
+if x equals to five,if x = 5
+if x equals to six,if x = 6
+if x equals to seven,if x = 7
+if x equals to eight,if x = 8
+if x equals to nine,if x = 9
+if x equals to ten,if x = 10
+if x equals to eleven,if x = 11
+if x equals to twelve,if x = 12
+if x equals to thirteen,if x = 13
+if x equals to fourteen,if x = 14
+if x equals to fifteen,if x = 15
+if x equals to sixteen,if x = 16
+if x equals to seventeen,if x = 17
+if x equals to eighteen,if x = 18
+if x equals to nineteen,if x = 19
+if x equals to twenty,if x = 20
+if y equals to one,if y = 1
+if y equals to two,if y = 2
+if y equals to three,if y = 3
+if y equals to four,if y = 4
+if y equals to five,if y = 5
+if y equals to six,if y = 6
+if y equals to seven,if y = 7
+if y equals to eight,if y = 8
+if y equals to nine,if y = 9
+if y equals to ten,if y = 10
+if y equals to eleven,if y = 11
+if y equals to twelve,if y = 12
+if y equals to thirteen,if y = 13
+if y equals to fourteen,if y = 14
+if y equals to fifteen,if y = 15
+if y equals to sixteen,if y = 16
+if y equals to seventeen,if y = 17
+if y equals to eighteen,if y = 18
+if y equals to nineteen,if y = 19
+if y equals to twenty,if y = 20
+initiate integer sum,integer sum
+initiate integer total,integer total
+initiate integer sub,integer sub
+initiate integer mul,integer mul
+initiate integer val,integer val
+output x,output x
+output y,output y
+output mul,output mul
+output sum,output sum
+output sub,output sub
+output total,output total
+output val,output val
+initiate boolean x,boolean x
+initiate boolean y,boolean y
+initiate boolean a,boolean a
+inititate boolean b,boolean b
+initiate boolean z,boolean z
+check a is greater than b,boolean answera = a > b
+check whather b is greater than a,boolean answerb = b > a
+check whether x is greater than a,boolean answerx = x > a
+if y equals to ten,if y = 10
+if y equals to eleven,if y = 11
+if y equals to twelve,if y = 12
+if y equals to thirteen,if y = 13
+if y equals to fourteen,if y = 14
+if y equals to fifteen,if y = 15
+if y equals to sixteen,if y = 16
+if y equals to seventeen,if y = 17
+if y equals to eighteen,if y = 18
+,
+integer a equal five plus five,integer a = 5 + 5
+integer a equal five plus six,integer a = 5 + 6
+integer a equal five plus seven,integer a = 5 + 7
+integer a equal five plus eight,integer a = 5 + 8
+integer a equal five plus nine,integer a = 5 + 9
+integer a equal five plus ten,integer a = 5 + 10
+integer a equal five minus five,integer a = 5 - 5
+integer a equal five minus six,integer a = 5 - 6
+integer a equal five minus seven,integer a = 5 - 7
+integer a equal five minus eight,integer a = 5 - 8
+integer a equal five minus nine,integer a = 5 - 9
+integer a equal five minus ten,integer a = 5 - 10
+integer a equal five times five,integer a = 5 * 5
+integer a equal five times six,integer a = 5 * 6
+integer a equal five times seven,integer a = 5 * 7
+integer a equal five times eight,integer a = 5 * 8
+integer a equal five times nine,integer a = 5 * 9
+integer a equal five times ten,integer a = 5 * 10
+integer a equal five divide five,integer a = 5 / 5
+integer a equal twelve divide six,integer a = 12 / 6
+integer a equal twenty one divide seven,integer a = 21 / 7
+integer a equal fourty divide eight,integer a = 40 / 8
+integer a equal sixty three divide nine,integer a = 63 / 9
+integer a equal eighty divide ten,integer a = 80 / 10
+integer a equal five modulus five,integer a = 5 mod 5
+integer a equal six modulus five,integer a = 6 mod 5
+integer a equal seven modulus five,integer a = 7 mod 5
+integer a equal eight modulus five,integer a = 8 mod 5
+integer a equal nine modulus five,integer a = 9 mod 5
+integer a equal ten modulus five,integer a = 10 mod 5
+integer b equal six modulus four,integer b = 6 mod 4
+integer b equal five modulus three,integer b = 5 mod 3
+integer b equal five modulus two,integer b = 5 mod 2
+integer b equal five modulus one,integer b = 5 mod 1
+integer b equal fifteen modulus six,integer b = 15 mod 6
+integer b equal thirty modulus eight,integer b = 30 mod 8
+boolean a equal five less than six,boolean a = 5 < 6
+boolean a equal five less than seven,boolean a = 5 < 7
+boolean a equal five less than eight,boolean a = 5 < 8
+boolean a equal five less than nine,boolean a = 5 < 9
+boolean a equal five less than ten,boolean a = 5 < 10
+boolean a equal five less than eleven,boolean a = 5 < 11
+boolean b equal five less than or equal to six,boolean b = 5 <= 6
+boolean b equal five less than or equal to seven,boolean b = 5 <= 7
+boolean b equal five less than or equal to eight,boolean b = 5 <= 8
+boolean b equal five less than or equal to nine,boolean b = 5 <= 9
+boolean b equal five less than or equal to ten,boolean b = 5 <= 10
+boolean b equal five less than or equal to eleven,boolean b = 5 <= 11
+boolean a equal five greater than six,boolean a = 5 > 6
+boolean a equal five greater than seven,boolean a = 5 > 7
+boolean a equal five greater than eight,boolean a = 5 > 8
+boolean a equal five greater than nine,boolean a = 5 > 9
+boolean a equal five greater than ten,boolean a = 5 > 10
+boolean a equal five greater than eleven,boolean a = 5 > 11
+boolean b equal five greater than or equal to six,boolean b = 5 >= 6
+boolean b equal five greater than or equal to seven,boolean b = 5 >= 7
+boolean b equal five greater than or equal to eight,boolean b = 5 >= 8
+boolean b equal five greater than or equal to nine,boolean b = 5 >= 9
+boolean b equal five greater than or equal to ten,boolean b = 5 >= 10
+boolean b equal five greater than or equal to eleven,boolean b = 5 >= 11
+boolean a equal five not equal five,boolean a = 5 not= 5
+boolean a equal five not equal six,boolean a = 5 not= 6
+boolean a equal five not equal seven,boolean a = 5 not= 7
+boolean a equal five not equal eight,boolean a = 5 not= 8
+boolean a equal five not equal nine,boolean a = 5 not= 9
+boolean a equal five not equal ten,boolean a = 5 not= 10
+boolean a equal true and true,boolean a = true and true
+boolean b equal true and true,boolean b = true and true
+boolean c equal true and true,boolean c = true and true
+boolean a equal true and false,boolean a = true and false
+boolean b equal true and false,boolean b = true and false
+boolean c equal true and false,boolean c = true and false
+boolean a equal true or true,boolean a = true or true
+boolean b equal true or true,boolean b = true or true
+boolean c equal true or true,boolean c = true or true
+boolean a equal true or false,boolean a = true or false
+boolean b equal true or false,boolean b = true or false
+boolean c equal true or false,boolean c = true or false
+text combined equal a plus b,text combined = a + b
+text com equal a plus c,text com = a + c
+text co equal a plus d,text co = a + d
+text a equal number concatenate with 5,"text a = ""number"" + 5"
+text a equal number concatenate with 6,"text a = ""number"" + 6"
+text a equal number concatenate with 7,"text a = ""number"" + 7"
+repeat ten times,repeat 10 times
+repeat two times,repeat 2 times
+repeat four times,repeat 4 times
+repeat three times,repeat 3 times
+repeat six times,repeat 6 times
+repeat it while a less than 15,repeat while a < 15
+repeat it while a less than 16,repeat while a < 16
+repeat it while b less than 17,repeat while b < 17
+repeat it while b less than 18,repeat while b < 18
+repeat it while b less than 19,repeat while b < 19
+repeat it while b less than 20,repeat while b < 20
+repeat it until a greater than or equal to 15,repeat until a >= 15
+repeat it until a greater than or equal to 16,repeat until a >= 16
+repeat it until a greater than or equal to 17,repeat until a >= 17
+repeat it until a greater than or equal to 18,repeat until a >= 18
+repeat it until a greater than or equal to 19,repeat until a >= 19
+repeat it until a greater than or equal to 20,repeat until a >= 20
