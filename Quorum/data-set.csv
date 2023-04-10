@@ -1,4 +1,4 @@
-command,code
+command,value
 initiate integer x,integer x
 initiate integer x,integer y
 initiate integer x with value one,integer x = 1
