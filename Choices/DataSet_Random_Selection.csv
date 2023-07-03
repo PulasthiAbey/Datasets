@@ -1,23 +1,23 @@
 Topic,Value
-education,"[{
-        ""key"": ""1"",
-        ""title"": ""The Power of Education"",
-        ""link"": ""https://www.youtube.com/watch?v=2Yfrj2YhT9E""
+education,[{
+        "key": "1",
+        "title": "The Power of Education",
+        "link": "https://www.youtube.com/watch?v=2Yfrj2YhT9E"
       },
       {
-        ""key"": ""2"",
-        ""title"": ""How to Learn Anything: The Feynman Technique"",
-        ""link"": ""https://www.youtube.com/watch?v=_f-qkGJBPts""
+        "key": "2",
+        "title": "How to Learn Anything: The Feynman Technique",
+        "link": "https://www.youtube.com/watch?v=_f-qkGJBPts"
       },
       {
-        ""key"": ""3"",
-        ""title"": ""The Science of Learning: How We Learn"",
-        ""link"": ""https://www.youtube.com/watch?v=Kw-Ri-qaYyk""
+        "key": "3",
+        "title": "The Science of Learning: How We Learn",
+        "link": "https://www.youtube.com/watch?v=Kw-Ri-qaYyk"
       },
       {
-        ""key"": ""4"",
-        ""title"": ""The Importance of Early Childhood Education"",
-        ""link"": ""https://www.youtube.com/watch?v=3Tqw_QDRmkE""
+        "key": "4",
+        "title": "The Importance of Early Childhood Education",
+        "link": "https://www.youtube.com/watch?v=3Tqw_QDRmkE"
       },
       {
         ""key"": ""5"",
@@ -249,8 +249,8 @@ education,"[{
         ""title"": ""The Role of Education in Mental Health Awareness"",
         ""link"": ""https://www.youtube.com/watch?v=XXPjVv2LJi4""
       }
-    ]"
-technology,"""[{
+    ]
+technology,[{
         """"key"""": """"1"""",
         """"title"""": """"The Power of Education"""",
         """"link"""": """"https://www.youtube.com/watch?v=2Yfrj2YhT9E""""
